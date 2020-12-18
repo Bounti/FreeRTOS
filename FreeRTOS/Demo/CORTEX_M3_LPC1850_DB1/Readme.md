@@ -1,4 +1,4 @@
-# Emulating LPC1850 DB1 on DMon platform
+# Re-hosting LPC1850 DB1 on the DMon platform
 
 ## Requirements
 1. GNU Arm Embedded Toolchain download [here](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
