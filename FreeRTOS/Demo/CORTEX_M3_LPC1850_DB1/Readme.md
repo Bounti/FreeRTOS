@@ -1,4 +1,4 @@
-# Emulating MPS2 Cortex M3 AN385 on QEMU
+# Executing LPC1850 based FreeRTOS on DMon
 
 ## Requirements
 1. GNU Arm Embedded Toolchain download [here](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
